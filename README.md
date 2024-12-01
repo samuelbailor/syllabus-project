@@ -1,4 +1,4 @@
-# UMBC Syllabus Synthsizer Project for CMSC 447 - Section 03
+# UMBC Syllabus Synthesizer Project for CMSC 447 - Section 03
 
 ## For COEIT departments only:
 
